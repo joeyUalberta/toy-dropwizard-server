@@ -20,5 +20,5 @@ jobs:
 
         - name: Run tests
           working-directory: .
-          run: ./gradelw test 
+          run: ./gradlew test 
 
